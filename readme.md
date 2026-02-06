@@ -3,9 +3,7 @@
 A clean, project-based **prompt manager** for ComfyUI that lets you store/load **Positive Prompt**, **Negative Prompt**, and up to **5 typed variables** per project — with **separate outputs** for easy wiring in workflows.
 
 ---
-```md
 ![node-ui](./Assets/node-ui.png)
-```
 
 ---
 
