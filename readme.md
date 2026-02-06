@@ -4,7 +4,7 @@ A clean, project-based **prompt manager** for ComfyUI that lets you store/load *
 
 ---
 ```md
-![node-ui](Assets/node-ui.png)
+![node-ui](./Assets/node-ui.png)
 ```
 
 ---
